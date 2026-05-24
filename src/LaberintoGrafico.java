@@ -1,3 +1,17 @@
+/**
+ * Nombre del archivo: Laboratorio Laberintos.java
+ * Descripción: Implementación de un resolvedor de laberintos mediante el algoritmo de Backtracking.
+ * Permite configuraciones dinámicas de tamaño, prioridad de direcciones y modo de juego.
+ *
+ * @author Pablo Vinicio Hernández ;Jaime Velastegui; Mattias Revelo; Felipe Corral
+ * @version 1.2
+ * @date 2026-05-24
+ * * Historial de cambios:
+ * - 1.0: Versión inicial con generación base.
+ * - 1.1: Añadido menú de prioridades y lógica de laberintos imposibles.
+ * - 1.2: Implementada lógica heurística y persistencia de mapa.
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
